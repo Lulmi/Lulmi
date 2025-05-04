@@ -18,6 +18,8 @@
     <img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align = "center" alt = "microsoftsharepoint" src = "https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
     <img align = "center" alt = "unity" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img align = "center" alt = "DBeaver" src = "https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+    <img align = "center" alt = "Databricks" src = "https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>    
 </div><br/>
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lkzdd.mo@gmail.com)
